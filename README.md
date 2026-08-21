@@ -6,6 +6,8 @@
 
 > 宏梦·初号机是一台基于乐高 Technic 框架的履带遥控车，通过 WiFi + MQTT 实现远程操控与实时图传。
 
+> [碰撞测试视频](https://www.bilibili.com/video/BV1AC866cEPq)
+
 ---
 
 ## 目录
