@@ -1,0 +1,47 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+14720,6396959,14720.dat,"Technic, Liftarm, Modified H-Shape Thick 3 x 5 Perpendicular ",85,72,Dark Bluish Gray,Solid Colors,2,
+15100,6282142,15100.dat,"Technic, Pin with Friction Ridges and Pin Hole ",86,71,Light Bluish Gray,Solid Colors,2,0.4
+15100,6282140,15100.dat,"Technic, Pin with Friction Ridges and Pin Hole ",11,0,Black,Solid Colors,4,0.4
+15458,6127205,15458.dat,"Technic, Panel Plate 3 x 11 x 1 ",85,72,Dark Bluish Gray,Solid Colors,3,7
+18654,6183784,18654.dat,"Technic, Liftarm Thick 1 x 1 (Spacer) ",86,71,Light Bluish Gray,Solid Colors,4,0.17
+18946,6100930,18946.dat,"Technic, Gear 16 Tooth with Clutch on Both Sides ",5,4,Red,Solid Colors,4,0.84
+18947,6100931,18947.dat,Technic Driving Ring 3L,85,72,Dark Bluish Gray,Solid Colors,2,1.97
+22961,6123815,22961.dat,"Technic, Axle and Pin Connector Hub with 1L Axle ",86,71,Light Bluish Gray,Solid Colors,2,0.34
+26287,6273211,26287.dat,"Technic, Axle Connector 3L ",5,4,Red,Solid Colors,2,0.7
+2780,6279875,2780.dat,"Technic, Pin with Short Friction Ridges ",11,0,Black,Solid Colors,83,0.16
+32054,6347789,32054.dat,"Technic, Pin 3L with Friction Ridges and Stop Bush ",5,4,Red,Solid Colors,8,0.33
+32062,4142865,32062.dat,"Technic, Axle  2L Notched ",5,4,Red,Solid Colors,2,0.26
+32073,4211639,32073.dat,"Technic, Axle  5L ",86,71,Light Bluish Gray,Solid Colors,4,0.66
+4265c,6271167,32123a.dat,Technic Bush 1/2 Smooth,3,14,Yellow,Solid Colors,2,0.1
+32198,6031956,32198.dat,"Technic, Gear 20 Tooth Bevel ",86,71,Light Bluish Gray,Solid Colors,2,0.75
+32269,6346535,32269.dat,"Technic, Gear 20 Tooth Double Bevel ",11,0,Black,Solid Colors,4,1.4
+32278,4542576,32278.dat,"Technic, Liftarm Thick 1 x 15 ",85,72,Dark Bluish Gray,Solid Colors,4,4
+32278,4542577,32278.dat,"Technic, Liftarm Thick 1 x 15 ",86,71,Light Bluish Gray,Solid Colors,1,4
+32291,6280394,32291.dat,"Technic, Axle and Pin Connector Perpendicular Double ",11,0,Black,Solid Colors,1,0.6
+32316,4142132,32316.dat,"Technic, Liftarm Thick 1 x 5 ",5,4,Red,Solid Colors,2,1.21
+32316,4211651,32316.dat,"Technic, Liftarm Thick 1 x 5 ",86,71,Light Bluish Gray,Solid Colors,3,1.21
+32524,4495931,32524.dat,"Technic, Liftarm Thick 1 x 7 ",85,72,Dark Bluish Gray,Solid Colors,9,1.74
+32524,4495933,32524.dat,"Technic, Liftarm Thick 1 x 7 ",5,4,Red,Solid Colors,2,1.74
+32524,4495930,32524.dat,"Technic, Liftarm Thick 1 x 7 ",86,71,Light Bluish Gray,Solid Colors,2,1.74
+32526,4211713,32526.dat,"Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 ",86,71,Light Bluish Gray,Solid Colors,4,1.77
+3705,370526,3705.dat,"Technic, Axle  4L ",11,0,Black,Solid Colors,6,0.6
+3707,370726,3707.dat,"Technic, Axle  8L ",11,0,Black,Solid Colors,2,1.18
+3713,6275844,3713.dat,Technic Bush,86,71,Light Bluish Gray,Solid Colors,14,0.14
+3737,373726,3737.dat,"Technic, Axle 10L ",11,0,Black,Solid Colors,2,1.49
+40490,6102449,40490.dat,"Technic, Liftarm Thick 1 x 9 ",86,71,Light Bluish Gray,Solid Colors,1,2.59
+44294,4211805,44294.dat,"Technic, Axle  7L ",86,71,Light Bluish Gray,Solid Colors,1,1.05
+4519,4211815,4519.dat,"Technic, Axle  3L ",86,71,Light Bluish Gray,Solid Colors,2,0.43
+57518,6366190,57518.dat,"Technic, Link Tread Wide with 2 Pin Holes ",85,72,Dark Bluish Gray,Solid Colors,92,1.35
+57519,4582792,57519.dat,Technic Tread Sprocket Wheel Large,11,0,Black,Solid Colors,6,5.1
+58120c01,6151440,58120.dat,"Electric, Motor 9V Power Functions M with Dark Bluish Gray Bottom ",86,71,Light Bluish Gray,Solid Colors,2,33.5
+60484,4552348,60484.dat,"Technic, Liftarm, Modified T-Shape Thick 3 x 3 ",86,71,Light Bluish Gray,Solid Colors,6,1.19
+64179,4539880,64179.dat,"Technic, Liftarm, Modified Frame Thick 5 x 7 Open Center ",86,71,Light Bluish Gray,Solid Colors,6,5.3
+6558,6299413,6558.dat,"Technic, Pin 3L with Friction Ridges ",7,1,Blue,Solid Colors,16,0.31
+6589,6589194,6589.dat,"Technic, Gear 12 Tooth Bevel ",86,71,Light Bluish Gray,Solid Colors,2,0.29
+6641,6313493,6641.dat,Technic Changeover Catch,5,4,Red,Solid Colors,2,0.5
+73507,6362250,73507.dat,"Technic, Liftarm, Modified Perpendicular Holes Thick 1 x 11 ",86,71,Light Bluish Gray,Solid Colors,2,
+94925,4640536,94925.dat,"Technic, Gear 16 Tooth - Axle Hole with Closed Sides ",86,71,Light Bluish Gray,Solid Colors,4,0.7
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+324,401.67 +a
+,,,,,,,,

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino
+build/
+*.elf
+*.hex
+*.bin
+
+# FreeCAD backups
+*.FCBak
+*.FCStd1
+
+# Logs
+*.log
+
+# Environment / secrets (override with actual values)
+.env
+.env.local
+
+视频文案.md

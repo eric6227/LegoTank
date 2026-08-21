@@ -1,0 +1,10 @@
+# 无限遥控车控制器依赖
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+paho-mqtt>=1.6.0
+opencv-python>=4.8.0
+requests>=2.31.0
+numpy>=1.24.0
+PyYAML>=6.0
+keyring>=24.0.0
+sounddevice>=0.4.6
